@@ -18,3 +18,4 @@ The goals of behavior cloning project are the following:
 * Train and validate the model with a training and validation set
 * Test that the model successfully drives around track one without leaving the road
 
+![model](https://user-images.githubusercontent.com/23564572/47321778-d7f29980-d623-11e8-82fb-0a0ca99cd7ac.png)
