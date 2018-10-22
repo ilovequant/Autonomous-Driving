@@ -11,8 +11,8 @@ The goal of lane finding project:
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
 
-The goals of behavior cloning project are the following:
 
+The goals of behavior cloning project are the following:
 * Use the simulator to collect data of good driving behavior
 * Build, a convolution neural network in Keras that predicts steering angles from images
 * Train and validate the model with a training and validation set
